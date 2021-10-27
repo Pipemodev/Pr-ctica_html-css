@@ -13,4 +13,12 @@ header {
 header nav{
     display: flex;
     justify-content: flex-end;
+
+}
+
+header nav .nav-right-section{
+    width: 250px;
+    height: auto;
+    display: flex;
+    list-style: none;
 }
